@@ -9,7 +9,6 @@ def menu():
     print("4. Exit")
 
 
-
 def main():
     while True:
         quotes = load_quotes("quotes.txt")
